@@ -1,20 +1,20 @@
-ITS VERY EARLY DEVELOPMENT
+# ITS VERY EARLY DEVELOPMENT
 its possibly that its completely broken and it doesnt work at all
 the phone app isnt out its going trough play store testing
 
 By using your Android phone as a 6-DOF Virtual camera inside BeamNG you can create hyper realistic videos.
 
-TUTORIAL:
-On your ANDROID phone download the app: BeamHeld.cam
-Be on the same WiFi
-check your pc IP adress by running ipconfig in the cmd (press win+r and type: cmd)
-write the IP adress in the phone app
-Launch a freeroam session
-Press ENABLE in the mods HUD app
-Press the test button in the phone app it should make a 360 roll if it worked you good to go if not recheck your networking are you really on the same network, or does the mod really started, or just try to restart everything
-the camera works in FREECAM and RELATIVE (5 button)
-if the camera tilts, turns in the wrong direction check out the advanced hud maybe you can tweak the gyros
-the app was tested on S20 FE, S23, Z Fold 5
+## TUTORIAL:
+* On your ANDROID phone download the app: BeamHeld.cam
+* Be on the same WiFi
+* check your pc IP adress by running ipconfig in the cmd (press win+r and type: cmd)
+* write the IP adress in the phone app
+* Launch a freeroam session
+* Press ENABLE in the mods HUD app
+* Press the test button in the phone app it should make a 360 roll if it worked you good to go, if not recheck your networking! Are you really on the same network, or does the mod really started, or just try to restart everything
+* the camera works in FREECAM and RELATIVE cam (5 button)
+* if the camera tilts, turns in the wrong direction check out the advanced hud maybe you can tweak the gyros
+* the app was tested on S20 FE, S23, Z Fold 5
 
 
 How it works:
