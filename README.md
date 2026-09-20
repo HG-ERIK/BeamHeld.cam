@@ -16,6 +16,7 @@ By using your Android phone as a 6-DOF Virtual camera inside BeamNG you can crea
 * if the camera tilts, turns in the wrong direction check out the advanced hud maybe you can tweak the gyros
 * the app was tested on S20 FE, S23, Z Fold 5
 
+## Tutorial video: https://www.youtube.com/watch?v=AS7zdk9xEUs
 
 How it works:
 
