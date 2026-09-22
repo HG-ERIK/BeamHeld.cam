@@ -24,4 +24,4 @@ Android Phone using ARcore and camera to position itself in space and then sends
 
 The BeamNG mod (this mod) receives it and translates the phone motion into game camera motion. Thats it
 
-programming was AI assisted (claude) i know i know vibe coding etc but i used it mainly to bug fix and im learning programming in school so i hope no one will look at this and say ai slop but enough talking. it works sometimes ;) and one more thing i didnt wanted to make this paid so i just put a little ad in the phone app sadly there isnt really an income for me and just started university so yeah atleast i get a little something for my work.
+programming was AI assisted (Claude Opus) mainly to write basic code and for bug fixing
