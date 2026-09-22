@@ -1,6 +1,6 @@
 # ITS VERY EARLY DEVELOPMENT
 its possibly that its completely broken and it doesnt work at all
-the phone app isnt out its going trough play store testing
+## Phone app: https://discord.gg/9qxc2JMjzw (read info channel in DC)
 
 By using your Android phone as a 6-DOF Virtual camera inside BeamNG you can create hyper realistic videos.
 
