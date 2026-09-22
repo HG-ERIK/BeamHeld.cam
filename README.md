@@ -4,7 +4,7 @@ its possibly that its completely broken and it doesnt work at all
 By using your Android phone as a 6-DOF Virtual camera inside BeamNG you can create hyper realistic videos.
 
 ## TUTORIAL:
-* On your ANDROID phone download the app: BeamHeld.cam (its still in testing get it from here:https://discord.gg/9qxc2JMjzw (read info channel in DC))
+* On your ANDROID phone download the app: BeamHeld.cam **its still in testing get it from here: https://discord.gg/9qxc2JMjzw read info channel in DC**
 * Be on the same WiFi
 * check your pc IP adress by running ipconfig in the cmd (press win+r and type: cmd)
 * write the IP adress in the phone app
